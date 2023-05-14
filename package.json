@@ -1,0 +1,19 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaxybaxy/e-commerce-API-nodejs.git"
+  },
+  "author": "Momen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaxybaxy/e-commerce-API-nodejs/issues"
+  },
+  "homepage": "https://github.com/jaxybaxy/e-commerce-API-nodejs#readme"
+}
